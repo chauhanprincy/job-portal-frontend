@@ -104,9 +104,3 @@ This app uses **JWT (JSON Web Tokens)** for authentication. The token is stored 
 Two user roles are supported:
 - `JobSeeker` — can browse and apply for jobs
 - `Employer` — can post jobs and view applicants
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
