@@ -33,7 +33,6 @@ function Register() {
       <div className="glass-card auth-card">
         <div className="auth-header">
           <h2>Create Account</h2>
-          {/* <p>Join our job portal today</p> */}
         </div>
 
         {error && (

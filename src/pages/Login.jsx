@@ -30,7 +30,6 @@ function Login() {
       <div className="glass-card auth-card">
         <div className="auth-header">
           <h2>Welcome Back</h2>
-          {/* <p>Login to access your job portal account</p> */}
         </div>
 
         {error && (
